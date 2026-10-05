@@ -1,11 +1,11 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Famiza
 
 [One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
 
 ## About me
-- Studying: [your programme], UiTM
-- Currently learning: [topics]
-- My FYP area: [your area, or "still deciding"]
+- Studying: Computer Science, UiTM
+- Currently learning: Special Topic in Computer Science
+- My FYP area: still deciding
 
 ## Skills and tools
 [List what you know. Example: Python, Git, SQL]
