@@ -14,4 +14,4 @@
 Planning (CSC649, Week 2)
 
 ## Author
-[Your Name]
+Nurfamiza Amira Binti Azmi
